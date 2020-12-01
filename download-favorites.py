@@ -3,6 +3,9 @@
 # https://twitter.com/hovior
 # https://mastodon.social/@hovior
 
+# This script uses python-twitter package: https://pypi.org/project/python-twitter
+# Note this is not the same as the twitter package
+
 import twitter
 import os
 import urllib
